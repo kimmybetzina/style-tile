@@ -3,14 +3,42 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: #C77966
+}
 
+.color-2 {
+    background: #7E827A
+}
+
+.color-3 {
+    background: #E3CDA4;
+}
 
 /* Textures or Patterns*/
+.pattern-1 {
+    background: url(../img/arab_tile.png);
+}
 
+.pattern-2 {
+    background: url(../img/arches.png);
+}
 
+.pattern-3 {
+    background: url(../img/contemporary_china.png);
+}
 /* Imagery */
+.imagery-1 {
+    background: url(../img/2771ffdbc10c057ce6c9bb8b0de9e2a4.jpg);
+}
 
+.imagery-2 {
+    background: url(../img/36bfb07a9e937bf20e06681e91bf29c6.jpg);
+}
 
+.imagery-3 {
+    background: url(../img/45c9222c9c98f15720ec830f3f755817.jpg);
+}
 /* Icons */
 
 
